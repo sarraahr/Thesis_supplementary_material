@@ -1,4 +1,4 @@
-setwd('/Users/sarah/Uni/Bachelorarbeit/neuesThema/Metaanalysis/Data/final')
+setwd('...')
 
 data <- read.csv(
   "Final_data.csv", 

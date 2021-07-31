@@ -1,4 +1,4 @@
-setwd('/Users/sarah/Desktop/meta-tests')
+setwd('/...')
 library(metafor)
 library(tidyverse)
 library(outliers)
